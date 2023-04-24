@@ -1,4 +1,4 @@
-# kanabot-discord
+# nishinokanabot-discord
 
 ## Getting Started
 
