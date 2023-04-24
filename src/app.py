@@ -11,7 +11,7 @@ async def on_ready() -> None:
     fetch_tweets()
 
 
-@client.command(name='dog', description='犬botが喋ります')
+@client.command(name='koi', description='西野カナが歌います')
 async def dog(ctx: interactions.CommandContext) -> (interactions.Message or None):
     if not ctx.guild:
         return await ctx.send(
