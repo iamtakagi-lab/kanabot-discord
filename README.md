@@ -1,10 +1,10 @@
-# inubot-discord
+# kanabot-discord
 
 ## Getting Started
 
 ### Installation
 ```
-git clone git@github.com:iamtakagi/inubot-discord.git
+git clone git@github.com:iamtakagi/kanabot-discord.git
 cp .env.sample .env
 cd docker
 docker-compose up -d
